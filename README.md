@@ -63,7 +63,7 @@ HHGGIII
 ```
 How to use:
 
-    git clone https://github.com/marsakov/fillit.git
+    git clone https://github.com/vkozhemi/fillit.git
     cd fillit
     make
    *choose a map from examples folder*
