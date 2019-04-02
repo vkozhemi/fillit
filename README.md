@@ -66,6 +66,5 @@ How to use:
     git clone https://github.com/vkozhemi/fillit.git
     cd fillit
     make
-   *choose a map from examples folder*
-    ./fillit examples/ok_09_block
+    ./fillit map
 
